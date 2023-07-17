@@ -1,0 +1,3 @@
+page -> format -> section1
+format-> header,childern components like section1, footer, 
+section1 -> includes main contents and Author component
